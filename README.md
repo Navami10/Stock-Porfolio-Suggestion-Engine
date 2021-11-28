@@ -1,10 +1,8 @@
 # Stock-Porfolio-Suggestion-Engine
 
 ## Description:
-Based on previous lab exercises, this project provides a stock portfolio suggestion engine for the user.
-
-User will:
-Input dollar amount to invest in USD (Minimum is $5000 USD)
+This project provides a stock portfolio suggestion engine for the user.
+User will input dollar amount to invest in USD (Minimum is $5000 USD)
 
 ### Pick one or two investment strategies:
 - Ethical Investing
